@@ -4,12 +4,12 @@ A fast, accessible, single-page HTML/CSS site for a house cleaning or maid servi
 deep, move-in/move-out or office cleaning, or any local service that books visits by area.
 No framework, no build step: open `index.html`, change the words, upload the folder.
 
-**Live preview:** https://stephen-psaradellis.github.io/keystone-lite-cleaning/
+**Live preview:** https://stephen-psaradellis.github.io/cleaning-website-template/
 
 Running a plumbing, HVAC or electrical business instead? The same layout with a trades
-theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/keystone-lite). A dental
-practice? [Keystone Lite Dental](https://github.com/Stephen-Psaradellis/keystone-lite-dental).
-A law firm or solo attorney? [Keystone Lite Legal](https://github.com/Stephen-Psaradellis/keystone-lite-legal).
+theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/plumber-website-template). A dental
+practice? [Keystone Lite Dental](https://github.com/Stephen-Psaradellis/dentist-website-template).
+A law firm or solo attorney? [Keystone Lite Legal](https://github.com/Stephen-Psaradellis/law-firm-website-template).
 
 ## What you get (free, MIT)
 
